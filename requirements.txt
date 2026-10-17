@@ -1,0 +1,15 @@
+# Runtime dependencies (pinned). Source of truth is pyproject.toml.
+fastapi==0.143.2
+uvicorn[standard]==0.54.0
+pydantic==2.14.1
+pydantic-settings==2.16.0
+email-validator==2.3.0
+SQLAlchemy==2.0.54
+aiosqlite==0.22.1
+asyncpg==0.32.0
+alembic==1.20.0
+httpx==0.28.1
+argon2-cffi==25.1.0
+PyJWT==2.15.1
+redis==6.4.0
+greenlet==3.5.6
